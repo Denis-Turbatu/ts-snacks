@@ -11,7 +11,7 @@
     "skipLibCheck": true
   },
   "include": [
-    "src/snack_*/index.ts"
+    "src/**/*"
   ],
   "exclude": [
     "node_modules",
